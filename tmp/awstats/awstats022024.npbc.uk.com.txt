@@ -181,7 +181,7 @@ BEGIN_SIDER 25
 /pages/directions.html 2 4588 0 0
 /pages/activities.html 2 4232 0 1
 /pages/contacts.html 2 4177 0 0
-/pages/newsletter.html 2 9082 0 0
+/pages/notices.html 2 9082 0 0
 /.well-known/acme-challenge/VP7PGN40NUGJ2JJ6C37SYXMLGOR-C-G3 1 64 1 0
 /.well-known/acme-challenge/1KKI-J938GJXYEAXPEG-I-AXH8H8LXCI 1 64 1 0
 /.well-known/acme-challenge/BGGW8D_5IQEY6J-QYM50I-3NBIWM5QTF 1 64 0 1
@@ -388,7 +388,7 @@ BEGIN_SIDER_404 93
 /fm1.php 2 -
 /wp-includes/SimplePie/plugins.php 2 -
 /M1.php 2 -
-/pages/newsletter.html 3 http://npbc.uk.com/
+/pages/notices.html 3 http://npbc.uk.com/
 /wp-admin/css/ 2 binance.com
 /c.php 1 -
 /wp-includes/theme-compat/wp-conflg.php 1 -
