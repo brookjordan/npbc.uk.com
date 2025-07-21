@@ -1,0 +1,395 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202402 will be lost/reset.
+# Last config file used to build this data file was /home/bxfqgh071uam/tmp/awstats/awstats.npbc.uk.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2694                
+POS_VISITOR 3458                
+POS_DAY 3946                
+POS_DOMAIN 4119                
+POS_LOGIN 4390                
+POS_ROBOT 4545                
+POS_WORMS 4878                
+POS_EMAILSENDER 5009                
+POS_EMAILRECEIVER 5152                
+POS_SESSION 5228                
+POS_SIDER 5375                
+POS_FILETYPES 6889                
+POS_DOWNLOADS 7073                
+POS_OS 7292                
+POS_BROWSER 7434                
+POS_SCREENSIZE 7696                
+POS_UNKNOWNREFERER 7770                
+POS_UNKNOWNREFERERBROWSER 7981                
+POS_ORIGIN 8101                
+POS_SEREFERRALS 8235                
+POS_PAGEREFS 8420                
+POS_SEARCHWORDS 8568                
+POS_KEYWORDS 8720                
+POS_MISC 2358                
+POS_ERRORS 8779                
+POS_CLUSTER 4246                
+POS_SIDER_404 8892                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240208051149 340 72391 14782014873300
+FirstTime 20240207061628
+LastTime 20240208045617
+LastUpdate 20240208052022 340 0 340 0 0
+TotalVisits 17                  
+TotalUnique 9                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 11                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 128 21 21 31061
+1 1 1 1263 2 4 3426
+2 8 8 19720 3 5 6343
+3 12 17 503520 2 45 74756
+4 23 34 222032 6 8 5789
+5 0 0 0 36 38 979
+6 8 8 14918 1 3 1471
+7 0 0 0 3 6 3359
+8 0 0 0 3 3 3625
+9 2 2 128 0 1 234
+10 0 0 0 0 2 492
+11 1 1 0 2 4 2432
+12 2 2 128 0 0 0
+13 0 0 0 1 2 1682
+14 0 0 0 1 1 1263
+15 3 4 2955 3 5 2160
+16 0 0 0 0 0 0
+17 0 1 283392 0 2 234
+18 3 3 1391 0 0 0
+19 0 0 0 0 5 5598
+20 0 0 0 1 1 979
+21 2 2 128 0 2 1959
+22 0 0 0 0 0 0
+23 9 9 22745 86 86 133018
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 11
+31.52.111.75 45 57 276481 20240208045617 20240208024708 /
+92.204.218.60 16 16 1024 20240208034632
+69.164.220.126 9 9 22745 20240207232209
+199.45.154.64 1 2 2827 20240207152510
+199.244.88.222 1 1 1263 20240207185519
+35.83.39.174 1 1 0 20240207110958
+24.144.91.147 1 1 1263 20240208014037
+35.91.64.74 1 1 1263 20240208032247
+18.236.136.109 1 4 233262 20240208032248
+61.69.211.237 0 1 248928 
+24.127.163.0 0 3 188928 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20240207 30 32 325785 11
+20240208 46 62 746663 6
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+gb 45 57 276481
+de 16 16 1024
+us 15 20 451551
+au 0 1 248928
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+Googlebot/ 7 6853 20240208023215 0
+bingbot/ 1 3701 20240208043803 0
+zoominfobot 1 1263 20240208021403 0
+Applebot/ 1 1263 20240208014726 0
+AhrefsBot/ 1 979 20240208044150 0
+java 1 1263 20240207145352 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 16
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 25
+/pages/services.html 29 69458 2 1
+/ 16 18661 7 6
+/pages/sermons.html 3 17824 0 0
+/pages/5-mins.html 2 5167 0 0
+/pages/links.html 2 4089 0 0
+/pages/directions.html 2 4588 0 0
+/pages/activities.html 2 4232 0 1
+/pages/contacts.html 2 4177 0 0
+/pages/newsletter.html 2 9082 0 0
+/.well-known/acme-challenge/VP7PGN40NUGJ2JJ6C37SYXMLGOR-C-G3 1 64 1 0
+/.well-known/acme-challenge/1KKI-J938GJXYEAXPEG-I-AXH8H8LXCI 1 64 1 0
+/.well-known/acme-challenge/BGGW8D_5IQEY6J-QYM50I-3NBIWM5QTF 1 64 0 1
+/.well-known/acme-challenge/RA9O1WJD27HA2LC4ZEDD7YSEIDE7L-67 1 64 1 0
+/.well-known/acme-challenge/3AJA_JCH77JT9-DA4GB6C41HH0ZIDN8F 1 64 0 1
+/.well-known/acme-challenge/HU6QNX08471GPYUTWDNXH7EOU6BEEZE6 1 64 1 0
+/.well-known/acme-challenge/CVQER-3IWIWLT651TEJQ7PXGT-IF1LAQ 1 64 1 0
+/.well-known/acme-challenge/W05_OEHYKBDKEI0BOS0IN_M8RVLI0NJ_ 1 64 0 1
+/.well-known/acme-challenge/WTLGAOXTMWRJRSR34PPR5YZQNT84CB43 1 64 0 1
+/.well-known/acme-challenge/4ONPHDTCV86MSL_-Y2E_4VTDHXD-JZ9M 1 64 0 1
+/.well-known/acme-challenge/TRH__CTV81TNH2OZPWWXCKQJA25NVG3A 1 64 0 1
+/.well-known/acme-challenge/IBW9MTVN8Y3FI0UE9MX_PZ5HNA6JBQ2N 1 64 0 1
+/.well-known/acme-challenge/ANT68S-08H5RAIJ0ZWY24258QRT7TL_F 1 64 1 0
+/.well-known/acme-challenge/VI9UW4_FLQBMS9TOOKOYSINMH-R7A-E6 1 64 1 0
+/.well-known/acme-challenge/PP7E0MHPIPBREFXWRCLP2J4DW-O2YN4I 1 64 0 1
+/.well-known/acme-challenge/T91A_G4VT3Z-0L7O81DG_LP473MON2IB 1 64 1 0
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+Unknown 16 1024 0 0
+pdf 3 538048 0 0
+gif 8 10877 0 0
+jpg 2 174003 0 0
+css 1 384 0 0
+png 4 116370 0 0
+html 60 137278 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/pdfs-ez,nh/05_Ez-Ne_(Ez_9-10).pdf 1 2 188928
+/pdfs-5min/Victorian%20Christianity.pdf 1 0 248928
+/pdfs%20-%20philippians/philippians%201%20-%20Introduction.pdf 1 0 100192
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+linux 2 2
+macosx15 65 53
+ios_iphone 6 2
+win10 4 1
+macosx14 1 1
+Unknown 18 17
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 12
+chrome108.0.0.0 1 1
+chrome80.0.3987.132 1 1
+chrome105.0.0.0 1 1
+safari17.3 57 45
+firefox73.0 1 1
+safari13.0.5 7 7
+chrome79.0.3945.130 1 1
+Unknown 16 16
+mozilla 2 1
+safari16.6 1 0
+firefox122.0 3 0
+safari15.4 5 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240207152513
+Cpanel-HTTP-Client/1.0 20240208034632
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Cpanel-HTTP-Client/1.0 20240208034632
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 31 31
+From1 0 0
+From2 0 4
+From3 0 0
+From4 45 61
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com_au 0 1
+www_google_com 0 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+301 31 7470
+302 2 406
+404 195 257662
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 93
+/ 9 -
+/wp-content/upgrade/edit.php 1 -
+/dropdown.php 3 -
+/npbc-website/headlines/times.gif 6 http://npbc.uk.com/pages/services.html
+/pdfs-notices/22%20February%202015.pdf 1 -
+/npbc-website/graphics/npbc-80x80.gif 6 http://npbc.uk.com/pages/services.html
+/npbc-website/GeneratedItems/CSScriptLib.js 6 http://npbc.uk.com/pages/services.html
+/chosen.php 1 -
+/wp-admin/dropdown.php 1 -
+/npbc-website/graphics/cross-11-pix.gif 6 http://npbc.uk.com/pages/services.html
+/wp-content/plugins/Cache/Cache.php 1 -
+/.well-known/wso112233.php 2 -
+/shell20211028.php 1 -
+/pdfs-notices/23%20July%202017.pdf 1 -
+/.well-known/pki-validation/about.php 2 -
+/ioxi02.php 1 -
+/cjfuns%20.php 1 -
+/admin.php 2 -
+/wp-includes/customize/amaxx.php 1 -
+/repeater.php 2 -
+/.well-known/ 2 binance.com
+/install.php 1 -
+/pages/services.html 9 http://npbc.uk.com/
+/wp-content/plugins/press/wp-class.php 2 -
+/wp-admin/install.php 1 -
+/pages/links.html 4 http://npbc.uk.com/
+/wp-content/shell20211028.php 1 -
+/wp-content/plugins/alfa-rex.php 2 -
+/robots.txt 8 -
+/wp-content/themes/about.php 2 -
+/wso112233.php 1 -
+/wp-header.php 3 -
+/404.php 1 -
+/wp-info.php 1 -
+/index.html 6 http://npbc.uk.com/pages/contacts.html
+/pages/contacts.html 1 http://npbc.uk.com/
+/wp-admin/network/amaxx.php 1 -
+/users.php 1 -
+/class.api.php 2 -
+/npbc-website/css/basic.css 6 http://npbc.uk.com/pages/services.html
+/pdfs-5min/Christianity%20in%20Britain%20in%20the%2020th%20century.pdf 1 http://npbc.uk.com/pages/5-mins.html
+/wp-content/plugins/core-plugin/.nxd.php 1 -
+/wp-admin/user/about.php 1 -
+/wp-content/plugins/fix/up.php 1 -
+/wp-content/plugins/backup-backup/includes/backup-heart.php 2 -
+/alfanew.php7 2 -
+/wp-content/plugins/about.php 2 -
+/text.php 1 -
+/_well-known/amaxx.php 1 -
+/npbc-website/menumachine/npbc_a/menuspecs.js 6 http://npbc.uk.com/pages/services.html
+/wp-includes/ID3/about.php 2 -
+/wp-content/plugins/core/include.php 2 -
+/cjfuns.php 1 -
+/classwithtostring.php 1 -
+/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV 1 -
+/cong.php 1 -
+/wp-content/plugins/core-plugin/include.php 1 -
+/wp-admin/options.php 1 -
+/about.php 2 -
+/menu.php 1 -
+/wp-2019.php 1 -
+/npbc-website/menumachine/menumachine2.js 6 http://npbc.uk.com/pages/services.html
+/wp-includes/IXR/themes.php 2 -
+/wp-includes/ID3/wp-login.php 2 -
+/Wp-includes/amaxx.php 1 -
+/pages/activities.html 4 http://npbc.uk.com/
+/sitemap.xml 2 -
+/wp-content/plugins/core-plugin/nxd.php 1 -
+/options.php 1 -
+/simple.php 2 -
+/user/index.cfm 1 -
+/radio.php 1 -
+//wp-includes/random_compat/about.php 1 -
+/wp-head.php 1 -
+/wp-content/themes/finley/min.php 2 -
+/_wel-known/pki-validation/883d551d-7523-4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV 1 -
+/alfanew.php 3 -
+/autoload_classmap.php 1 -
+//wp-head.php 1 -
+/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZValfadheat.php 1 -
+/wp-content/index.php 1 -
+/alfa-rex.php 1 -
+/pages/sermons.html 2 http://npbc.uk.com/
+/npbc-website/index.html 1 http://npbc.uk.com/pages/services.html
+/wp-content/plugins/backup-backup/includes/ 1 -
+/wp-admin/images/admin.php 1 -
+/fm1.php 2 -
+/wp-includes/SimplePie/plugins.php 2 -
+/M1.php 2 -
+/pages/newsletter.html 3 http://npbc.uk.com/
+/wp-admin/css/ 2 binance.com
+/c.php 1 -
+/wp-includes/theme-compat/wp-conflg.php 1 -
+END_SIDER_404

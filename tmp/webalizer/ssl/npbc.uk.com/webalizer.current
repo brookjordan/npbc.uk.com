@@ -1,0 +1,215 @@
+# Webalizer V2.23-08 Incremental Data - 02/08/2024 03:04:21
+2024 2 8 3 4 21
+37 23 12 15 4 9 978894 11 10 0
+3 15 15 7 8
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+19 7 711940 9 7 7
+18 16 266954 3 4 3
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+3 2 4225 2
+0 0 0 0
+15 14 262729 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+4 1 8052 1
+0 0 0 0
+4 1 8052 1
+0 0 0 0
+2 0 1940 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+4 1 8052 1
+0 0 0 0
+1 0 227 1
+0 0 0 0
+1 1 228118 0
+0 0 0 0
+3 3 457499 1
+0
+0
+0
+23
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+12
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/css/basic.css
+0 1 13254608 319 0 0
+/graphics/npbc-home-page-08-01-20.jpg
+0 1 13252048 173360 0 0
+/graphics/npbc-home-page-08-01-20.png
+0 1 13251456 58255 0 0
+/pdfs-5min/Victorian Christianity.pdf
+0 3 13253568 684354 0 0
+/graphics/npbc-80x80_down.gif
+0 1 13481472 4663 0 0
+/GeneratedItems/CSScriptLib.js
+0 1 13480720 252 0 0
+/headlines/times.gif
+0 1 13480848 1917 0 0
+/menumachine/npbc_a/menuspecs.js
+0 1 13481088 582 0 0
+/
+0 7 13251200 13633 8 0
+/menumachine/core/w3cdom.js
+0 1 13481344 5075 0 0
+/menumachine/menumachine2.js
+0 1 13481216 7450 0 0
+/pages/services.html
+0 1 13480384 2044 0 0
+/graphics/cross-11-pix.gif
+0 1 13480496 62 0 0
+/graphics/npbc-80x80.gif
+0 1 13480960 3701 0 0
+/graphics/npbc-80x80_over.gif
+0 1 13481600 3367 0 0
+# End Of Table - urls
+# -sites- (monthly)
+10.38.56.187
+0 15 14 262729 1 1707361461
+/pages/services.html
+137.184.95.221
+0 1 0 1699 1 1707305309
+-
+static.177.18.217.95.clients.your-server.de
+0 1 1 1263 1 1707348920
+/
+tab.census.shodan.io
+0 4 1 8052 1 1707289577
+/
+24.144.91.147
+0 1 1 1263 1 1707356438
+/
+103.91.130-202.onesky
+0 1 1 228118 0 0
+-
+s206-116-2-117.bc.hsia.telus.net
+0 2 2 456236 0 0
+-
+buffet.census.shodan.io
+0 4 1 8052 1 1707328250
+/
+crawling-gateway-136-243-220-211.dataforseo.com
+0 1 0 227 1 1707334595
+/
+elk.census.shodan.io
+0 4 1 8052 1 1707296518
+/
+1211451.cloudwaysapps.com
+0 1 0 241 1 1707305502
+-
+154.6.95.148
+0 2 1 2962 1 1707357197
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+10.38.56.187
+0 15 14 262729 1 1707361461
+/pages/services.html
+24.144.91.147
+0 1 1 1263 1 1707356438
+/
+154.6.95.148
+0 2 1 2962 1 1707357197
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://npbc.uk.com/pages/services.html
+0 10
+https://npbc.uk.com/
+0 4
+https://www.google.com/
+0 1
+- (Direct Request)
+0 22
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; DataForSeoBot/1.0; +https://dataforseo.com/dataforseo-bot)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-GB; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729)
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+0 3
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+0 17
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

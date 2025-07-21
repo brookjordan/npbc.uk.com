@@ -1,0 +1,47 @@
+body { }
+p {
+}
+td { }
+a:link { color: #5375b1; text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { color: #be8f0f; text-decoration: none; }
+a:active { text-decoration: none; }
+.class-body {
+	color: gray;
+	font-size: small;
+	font-family: "Trebuchet MS", Geneva, Arial, Helvetica, SunSans-Regular, sans-serif;
+	line-height: 150%;
+	text-decoration: none;
+}
+.class-body-sub {
+	color: #678f00;
+	font-size: small;
+	font-family: "Trebuchet MS", Geneva, Arial, Helvetica, SunSans-Regular, sans-serif;
+	font-weight: bold;
+	line-height: 150%;
+	text-decoration: none;
+	text-align: left;
+}
+.class-body-subplus { color: #678f00; font-size: medium; font-family: "Trebuchet MS", Geneva, Arial, Helvetica, SunSans-Regular, sans-serif; font-weight: bold; line-height: 150%; text-decoration: none; text-align: left; }
+.class-sub {
+	color: #336633;
+	font-size: large;
+	font-family: "Trebuchet MS", Geneva, Arial, Helvetica, SunSans-Regular, sans-serif;
+	font-weight: bold;
+	line-height: 150%;
+	text-align: left;
+}
+.class-small { color: gray; font-size: x-small; font-family: "Trebuchet MS", Geneva, Arial, Helvetica, SunSans-Regular, sans-serif; font-style: italic; }
+.class-sub-b {
+	color: #5375b1;
+	font-size: small;
+	font-family: "Trebuchet MS", Geneva, Arial, Helvetica, SunSans-Regular, sans-serif;
+	font-weight: bold;
+	line-height: 150%;
+	text-decoration: none;
+	text-align: left;
+}
+img {
+	max-width: 428px;
+	height: auto;
+}
